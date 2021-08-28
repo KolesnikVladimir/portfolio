@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 4000 845" style="enable-background:new 0 0 4000 845;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#989898;}
+	.st2{fill:#C4C4C4;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{display:none;}
+	.st5{display:inline;fill:url(#SVGID_4_);}
+	.st6{display:none;clip-path:url(#SVGID_6_);}
+	.st7{fill:#FFA000;}
+	.st8{fill:#2B2B2B;}
+	.st9{opacity:0.85;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<pattern  y="845" width="18.2" height="18.2" patternUnits="userSpaceOnUse" id="SVGID_3_" viewBox="0 -18.2 18.2 18.2" style="overflow:visible;">
+	<g>
+		<rect y="-18.2" class="st0" width="18.2" height="18.2"/>
+		<g>
+			<rect y="-18.2" class="st0" width="18.2" height="18.2"/>
+			<g>
+				<rect y="-9.1" class="st1" width="9.1" height="9.1"/>
+				<rect x="9.1" y="-9.1" class="st2" width="9.1" height="9.1"/>
+			</g>
+			<g>
+				<rect x="9.17" y="-18.18" class="st1" width="9.1" height="9.1"/>
+				<rect x="0.02" y="-18.18" class="st2" width="9.1" height="9.1"/>
+			</g>
+		</g>
+	</g>
+</pattern>
+<g id="Слой_2_1_">
+	
+		<radialGradient id="SVGID_1_" cx="1868.0175" cy="434.873" r="1306.6842" gradientTransform="matrix(1 0 0 -0.5098 0 631.6718)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.662" style="stop-color:#DBDBDB"/>
+	</radialGradient>
+	<polygon class="st3" points="1807,0 0,0 0,845 2446.3,845 1704.3,102.6 	"/>
+</g>
+<g id="Слой_1_1_">
+	<g>
+		<g>
+			<g>
+				<g class="st4">
+					<pattern  id="SVGID_4_" xlink:href="#SVGID_3_" patternTransform="matrix(1 0 0 -1 13.3004 -16411.9043)">
+					</pattern>
+					<polygon id="SVGID_2_" class="st5" points="4000,844.6 4000,0 2617,0 1807,0 1704.3,102.6 2446.3,844.6 					"/>
+				</g>
+				<g>
+					<defs>
+						<polygon id="SVGID_5_" points="4000,844.6 4000,0 2617,0 1807,0 1704.3,102.6 2446.3,844.6 						"/>
+					</defs>
+					<clipPath id="SVGID_6_">
+						<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st6">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<polygon class="st7" points="0,845 0,0 1693,0 850,845 			"/>
+		</g>
+		<polygon class="st8" points="1706.1,137.8 0,137.8 0,0 1568.3,0 		"/>
+		<polygon class="st9" points="2426.9,845 4000,845 4000,707.2 2564.7,707.2 		"/>
+	</g>
+</g>
+</svg>
