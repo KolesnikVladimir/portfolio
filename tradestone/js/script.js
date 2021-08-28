@@ -20,9 +20,7 @@ $(document).ready(function () {
         e.preventDefault();
     });
 
-
-    $(".href-link").colorbox({ rel: 'group1' });
-
+    
     $(".burger").click(function () {
         $("body").toggleClass("overlay");
         $(".pop-up-menu").toggleClass("open");
@@ -136,7 +134,7 @@ function init() {
         }, {
 
             iconLayout: 'default#image',
-            iconImageHref: '/netcat_template/template/4/img/map.png',
+            iconImageHref: 'img/map.png',
             iconImageSize: [32, 48],
             iconImageOffset: [-25, -42]
         });

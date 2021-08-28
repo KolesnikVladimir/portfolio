@@ -469,7 +469,7 @@ header .menucatalog ul {
     list-style: none;
     margin-bottom: 25px;
     float: left;
-    width: 50%;
+    width: 100%;
 }
 
 header .menucatalog .col-6 ul:last-child {
